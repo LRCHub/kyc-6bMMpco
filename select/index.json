@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Super Bowl",
+  "base_artist": "Stray Kids",
+  "createdAt": "2026-03-18T06:21:41.066337Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Star Spangled Banner (feat. The Florida Orchestra) - Live from Super Bowl XXV",
+      "artist": "Whitney Houston feat. Florida Orchestra",
+      "has_synced": true,
+      "path": "select/01_The_Star_Spangled_Banner_(feat._The_Florida_Orchestra)_-_Live_from_Super_Bowl_XX_Whitney_Houston_feat._Florida_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Star Spangled Banner (Performed Live January 27, 1991 At Super Bowl XXV)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/02_The_Star_Spangled_Banner_(Performed_Live_January_27,_1991_At_Super_Bowl_XXV)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Down At The Twist And Shout - Live - Super Bowl XXXI",
+      "artist": "Mary Chapin Carpenter",
+      "has_synced": false,
+      "path": "select/03_Down_At_The_Twist_And_Shout_-_Live_-_Super_Bowl_XXXI_Mary_Chapin_Carpenter.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Super Bowl",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/04_Super_Bowl_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Super Bowl",
+      "artist": "Stray Kids (스트레이 키즈)",
+      "has_synced": true,
+      "path": "select/05_Super_Bowl_Stray_Kids_(스트레이_키즈).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Super Bowl Sundae",
+      "artist": "Ozomatli",
+      "has_synced": true,
+      "path": "select/06_Super_Bowl_Sundae_Ozomatli.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Super Bowl (feat. Juicy J)",
+      "artist": "Conway the Machine feat. Sauce Walka & Juicy J",
+      "has_synced": true,
+      "path": "select/07_Super_Bowl_(feat._Juicy_J)_Conway_the_Machine_feat._Sauce_Walka_&_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Super Bowl",
+      "artist": "Conway & Sauce Walka feat. Juicy J",
+      "has_synced": true,
+      "path": "select/08_Super_Bowl_Conway_&_Sauce_Walka_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Super Bowl",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/09_Super_Bowl_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Star-Spangled Banner - The National Anthem - As Performed At Super Bowl XLIII",
+      "artist": "Jennifer Hudson",
+      "has_synced": false,
+      "path": "select/10_The_Star-Spangled_Banner_-_The_National_Anthem_-_As_Performed_At_Super_Bowl_XLII_Jennifer_Hudson.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Super Bowl",
+      "artist": "Conway the Machine & Sauce Walka feat. Juicy J",
+      "has_synced": true,
+      "path": "select/11_Super_Bowl_Conway_the_Machine_&_Sauce_Walka_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Star Spangled Banner - Super Bowl XXXVIII Performance A Cappella",
+      "artist": "Beyoncé",
+      "has_synced": false,
+      "path": "select/12_The_Star_Spangled_Banner_-_Super_Bowl_XXXVIII_Performance_A_Cappella_Beyoncé.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Super Bowl -Japanese ver.-",
+      "artist": "Stray Kids",
+      "has_synced": true,
+      "path": "select/13_Super_Bowl_-Japanese_ver.-_Stray_Kids.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Super Bowl -Japanese version-",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/14_Super_Bowl_-Japanese_version-_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Star Spangled Banner (Performed Live 1/12/91 At Super Bowl XXV)",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/15_The_Star_Spangled_Banner_(Performed_Live_1_12_91_At_Super_Bowl_XXV)_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Star Spangled Banner (feat. The Florida Orchestra) [Super Bowl XXV]",
+      "artist": "Whitney Houston",
+      "has_synced": true,
+      "path": "select/16_The_Star_Spangled_Banner_(feat._The_Florida_Orchestra)_[Super_Bowl_XXV]_Whitney_Houston.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Super Bowl (feat. Juicy J)",
+      "artist": "Conway the Machine & Sauce Walka",
+      "has_synced": true,
+      "path": "select/17_Super_Bowl_(feat._Juicy_J)_Conway_the_Machine_&_Sauce_Walka.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Kiss My Super Bowl Ring",
+      "artist": "The Garden",
+      "has_synced": true,
+      "path": "select/18_Kiss_My_Super_Bowl_Ring_The_Garden.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Super Bowl",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/pl_01_Super_Bowl_Stray_Kids.txt"
+    }
+  ]
+}
